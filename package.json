@@ -1,0 +1,12 @@
+{
+  "name": "com.fairygui.unity",
+  "displayName": "FairyGUI for Unity",
+  "version": "5.0.0",
+  "unity": "2020.3",
+  "description": "FairyGUI Unity runtime (UPM package)",
+  "keywords": ["ui", "fairygui", "fgui"],
+  "author": {
+    "name": "FairyGUI",
+    "url": "https://github.com/fairygui"
+  }
+}
